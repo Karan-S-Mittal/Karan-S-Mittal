@@ -4,7 +4,7 @@ I am ***Karan Mittal (@_karanshyam)***, I am a tech enthusiast who loves to code
 I love writing and breaking code , contributing to different projects and creating cool scripts and applications...
 
 ***Let me tell you somethings about myself.***
- - :computer: I am currently working as a Full Stack Engineer at ***HemansAI, Indore***. 
+ - :computer: I am a ***Freelancer*** currently working as a Full Stack Engineer | Data Scientist 
  - :mortar_board: Will Gradulate in **2021** with a Bachelor's Degree in Technology in ***Computer Science***.
  - :zap: I am more of a ***self-learner*** who loves learning things from the internet, any reliable and quality source of information.
  - :v:  I am ***super positive*** and I always look forward to create and develop new solutions using cutting edge technologies.

@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋 I'm excited to have you at my GitHub!
 
-<!--
-**Karan-S-Mittal/Karan-S-Mittal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am ***Karan Mittal (@_karanshyam)***, I am a tech enthusiast who loves to code in Python & JavaScript and currently working as a Full Stack Engineer !
+I love writing and breaking code , contributing to different projects and creating cool scripts and applications...
 
-Here are some ideas to get you started:
+***Let me tell you somethings about myself.***
+ - :computer: I am currently working as a Full Stack Engineer at ***HemansAI, Indore***. 
+ - :mortar_board: Will Gradulate in **2021** with a Bachelor's Degree in Technology in ***Computer Science***.
+ - :zap: I am more of a ***self-learner*** who loves learning things from the internet, any reliable and quality source of information.
+ - :v:  I am ***super positive*** and I always look forward to create and develop new solutions using cutting edge technologies.
+ - :sunglasses: I am a self-trained ***Full Stack Engineer | Data Scientist*** and my journey began at my age of 16!
+ - :open_hands: I hate restricting myself to a single domain and ***I always try to extend my interest in multiple domains***.
+ - :video_game: I love ***practicing yoga, meditation, watchning Anime, series, playing E-sports, Chess***
+ 
+  
+  Feel free to look around my repos and check my recent work😉
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 

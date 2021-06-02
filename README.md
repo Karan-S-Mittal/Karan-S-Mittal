@@ -4,7 +4,8 @@ I am ***Karan Mittal (@_karanshyam)***, I am a tech enthusiast who loves to code
 I love writing and breaking code , contributing to different projects and creating cool scripts and applications...
 
 ***I am currently looking for a Job. please connect if you find my profile a fit for your team.***
-***LinkedIn Url: https://www.linkedin.com/in/karansmittal***
+
+***LinkedIn Profile: https://www.linkedin.com/in/karansmittal***
 
 ***Let me tell you somethings about myself.***
  - :computer: I am a ***Software Developer*** providing services as a ***Full Stack Engineer | Data Scientist***

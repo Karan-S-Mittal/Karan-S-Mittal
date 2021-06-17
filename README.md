@@ -3,9 +3,10 @@
 <img src="https://komarev.com/ghpvc/?username=Karan-S-Mittal" alt="profile counter badge" />
 
 ### Connect with me
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karansmittal/)](https://www.linkedin.com/in/karansmittal/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?logo=instagram&logoColor=white&link=https://www.instagram.com/_karanshyam/)](https://www.instagram.com/_karanshyam/)
-[![Twitter Badge](https://img.shields.io/badge/-koolkanna-darkred?logo=twitter&logoColor=white&link=https://twitter.com/_karanshyam)](https://twitter.com/_karanshyam)
+[![Linkedin Badge](https://img.shields.io/badge/-karansmittal-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karansmittal/)](https://www.linkedin.com/in/karansmittal/)
+[![Instagram Badge](https://img.shields.io/badge/-_karanshyam-purple?logo=instagram&logoColor=white&link=https://www.instagram.com/_karanshyam/)](https://www.instagram.com/_karanshyam/)
+[![Twitter Badge](https://img.shields.io/badge/-_karanshyam-blue?logo=twitter&logoColor=white&link=https://twitter.com/_karanshyam)](https://twitter.com/_karanshyam)
+[![UpWork Badge](https://img.shields.io/badge/-Karan-green?logo=upwork&logoColor=white&link=https://www.upwork.com/freelancers/~0170113a7c76ce4ff7)](https://www.upwork.com/freelancers/~0170113a7c76ce4ff7)
 
 I am ***Karan Mittal (@_karanshyam)***, I am a tech enthusiast who loves to code in Python & JavaScript and currently working as a Full Stack Engineer !
 I love writing and breaking code , contributing to different projects and creating cool scripts and applications...
@@ -13,8 +14,6 @@ I love writing and breaking code , contributing to different projects and creati
 ***Want to hire me for your next project. Lets connect on Linkedin.***
 
 <img src="https://github-readme-stats.vercel.app/api?username=Karan-S-Mittal&?count_private=true&show_icons=true" alt="Karan Mittal" align="center" />
-
-***UpWork Profile: https://www.upwork.com/freelancers/~0170113a7c76ce4ff7***
 
 ***Let me tell you somethings about myself.***
  - :computer: I am a ***Software Developer*** providing services as a ***Full Stack Engineer | Data Scientist***

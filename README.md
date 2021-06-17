@@ -20,4 +20,4 @@ I love writing and breaking code , contributing to different projects and creati
   
   Feel free to look around my repos and check my recent work😉
 
- 
+[![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karan-S-Mittal)](https://github.com/anuraghazra/github-readme-stats)

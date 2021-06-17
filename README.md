@@ -5,7 +5,10 @@ I love writing and breaking code , contributing to different projects and creati
 
 ***I am currently looking for a Job. please connect if you find my profile a fit for your team.***
 
+[![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karan-S-Mittal&?count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ***LinkedIn Profile: https://www.linkedin.com/in/karansmittal***
+
 ***UpWork Profile: https://www.upwork.com/freelancers/~0170113a7c76ce4ff7***
 
 ***Let me tell you somethings about myself.***
@@ -20,4 +23,3 @@ I love writing and breaking code , contributing to different projects and creati
   
   Feel free to look around my repos and check my recent work😉
 
-[![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karan-S-Mittal)](https://github.com/anuraghazra/github-readme-stats)

@@ -3,9 +3,9 @@
 I am ***Karan Mittal (@_karanshyam)***, I am a tech enthusiast who loves to code in Python & JavaScript and currently working as a Full Stack Engineer !
 I love writing and breaking code , contributing to different projects and creating cool scripts and applications...
 
-***I am currently looking for a Job. please connect if you find my profile a fit for your team.***
+***Want to hire me for your next project. Lets connect on Linkedin.***
 
-[![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karan-S-Mittal&?count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=Karan-S-Mittal&?count_private=true&show_icons=true" alt="Karan Mittal" align="center" />
 
 ***LinkedIn Profile: https://www.linkedin.com/in/karansmittal***
 
@@ -19,7 +19,8 @@ I love writing and breaking code , contributing to different projects and creati
  - :sunglasses: I am a self-trained ***Full Stack Engineer | Data Scientist*** and my journey began at 15!
  - :open_hands: I hate restricting myself to a single domain and ***I always try to extend my interest in multiple domains***.
  - :video_game: I love ***practicing yoga, meditation, watchning Anime, series, playing E-sports, Chess***
- 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan-S-Mittal&layout=compact" alt='Karan Mittal Top Languages' align="center" />
   
-  Feel free to look around my repos and check my recent work😉
+Feel free to look around my repos and check my recent work😉
 

@@ -1,13 +1,18 @@
 ### Hi there 👋 I'm excited to have you at my GitHub!
 
+<img src="https://komarev.com/ghpvc/?username=Karan-S-Mittal" alt="profile counter badge" />
+
+### Connect with me
+[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karansmittal/)](https://www.linkedin.com/in/karansmittal/)
+[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?logo=instagram&logoColor=white&link=https://www.instagram.com/_karanshyam/)](https://www.instagram.com/_karanshyam/)
+[![Twitter Badge](https://img.shields.io/badge/-koolkanna-darkred?logo=twitter&logoColor=white&link=https://twitter.com/_karanshyam)](https://twitter.com/_karanshyam)
+
 I am ***Karan Mittal (@_karanshyam)***, I am a tech enthusiast who loves to code in Python & JavaScript and currently working as a Full Stack Engineer !
 I love writing and breaking code , contributing to different projects and creating cool scripts and applications...
 
 ***Want to hire me for your next project. Lets connect on Linkedin.***
 
 <img src="https://github-readme-stats.vercel.app/api?username=Karan-S-Mittal&?count_private=true&show_icons=true" alt="Karan Mittal" align="center" />
-
-***LinkedIn Profile: https://www.linkedin.com/in/karansmittal***
 
 ***UpWork Profile: https://www.upwork.com/freelancers/~0170113a7c76ce4ff7***
 

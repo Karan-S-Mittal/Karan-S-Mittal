@@ -7,6 +7,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-_karanshyam-purple?logo=instagram&logoColor=white&link=https://www.instagram.com/_karanshyam/)](https://www.instagram.com/_karanshyam/)
 [![Twitter Badge](https://img.shields.io/badge/-_karanshyam-blue?logo=twitter&logoColor=white&link=https://twitter.com/_karanshyam)](https://twitter.com/_karanshyam)
 [![UpWork Badge](https://img.shields.io/badge/-Karan-green?logo=upwork&logoColor=white&link=https://www.upwork.com/freelancers/~0170113a7c76ce4ff7)](https://www.upwork.com/freelancers/~0170113a7c76ce4ff7)
+[![Polywork Badge](https://img.shields.io/badge/-karansmittal_Polywork_Profile-royalblue?logo=polywork&link=https://www.polywork.com/karansmittal)](https://www.polywork.com/karansmittal)
 
 I am ***Karan Mittal (@_karanshyam)***, I am a tech enthusiast who loves to code in Python & JavaScript and currently working as a Full Stack Engineer !
 I love writing and breaking code , contributing to different projects and creating cool scripts and applications...

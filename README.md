@@ -9,8 +9,18 @@
 [![UpWork Badge](https://img.shields.io/badge/-Karan-green?logo=upwork&logoColor=white&link=https://www.upwork.com/freelancers/~0170113a7c76ce4ff7)](https://www.upwork.com/freelancers/~0170113a7c76ce4ff7)
 [![Polywork Badge](https://img.shields.io/badge/-karansmittal_Polywork_Profile-royalblue?logo=polywork&link=https://www.polywork.com/karansmittal)](https://www.polywork.com/karansmittal)
 
-I am ***Karan Mittal (@_karanshyam)***, I am a tech enthusiast who loves to code in Python & JavaScript and currently working as a Full Stack Engineer !
-I love writing and breaking code , contributing to different projects and creating cool scripts and applications...
+I am ***Karan Mittal (@_karanshyam)***, I am a Learner, Tech Enthusiast who loves to code in Python & JavaScript and currently providing services as a Freelancer !
+
+I love learning, developing efficient systems, integrate various software together to develop intricate solutions, and just anything thats tech, I love it. 
+
+My Areas of Expertise include : 
+- Machine Learning and Deep Learning 
+- Full Stack Solutions 
+- API Integrations 
+- Data Mining
+- Web Scraping
+- And the skills are just expanding everyday...
+
 
 ***Want to hire me for your next project. Lets connect on Linkedin.***
 

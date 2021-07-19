@@ -5,7 +5,7 @@
 ### Connect with me
 [![Linkedin Badge](https://img.shields.io/badge/-karansmittal-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karansmittal/)](https://www.linkedin.com/in/karansmittal/)
 [![Instagram Badge](https://img.shields.io/badge/-_karanshyam-purple?logo=instagram&logoColor=white&link=https://www.instagram.com/_karanshyam/)](https://www.instagram.com/_karanshyam/)
-[![Twitter Badge](https://img.shields.io/badge/-_karanshyam-blue?logo=twitter&logoColor=white&link=https://twitter.com/_karanshyam)](https://twitter.com/_karanshyam)
+[![Twitter Badge](https://img.shields.io/badge/-KaranSMittal-blue?logo=twitter&logoColor=white&link=https://twitter.com/KaranSMittal)](https://twitter.com/KaranSMittal)
 [![UpWork Badge](https://img.shields.io/badge/-Karan-green?logo=upwork&logoColor=white&link=https://www.upwork.com/freelancers/~0170113a7c76ce4ff7)](https://www.upwork.com/freelancers/~0170113a7c76ce4ff7)
 [![Polywork Badge](https://img.shields.io/badge/-karansmittal_Polywork_Profile-royalblue?logo=polywork&link=https://www.polywork.com/karansmittal)](https://www.polywork.com/karansmittal)
 

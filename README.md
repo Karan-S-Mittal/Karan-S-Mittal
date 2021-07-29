@@ -22,7 +22,8 @@ My Areas of Expertise include :
 - And the skills are just expanding everyday...
 
 
-***Want to hire me for your next project. Lets connect on Linkedin.***
+***Want to hire me for your next project. Lets connect.***
+You can email me as well here ***karanshyammittal@gmail.com***.
 
 <img src="https://github-readme-stats.vercel.app/api?username=Karan-S-Mittal&?count_private=true&show_icons=true" alt="Karan Mittal" align="center" />
 

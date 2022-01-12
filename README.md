@@ -8,7 +8,7 @@
 [![UpWork Badge](https://img.shields.io/badge/-KaranM-green?logo=upwork&logoColor=white&link=https://www.upwork.com/freelancers/~0170113a7c76ce4ff7)](https://www.upwork.com/freelancers/~0170113a7c76ce4ff7)
 [![Polywork Badge](https://img.shields.io/badge/-karansmittal-royalblue?logo=polywork&link=https://www.polywork.com/karansmittal)](https://www.polywork.com/karansmittal)
 
-I am ***Karan Mittal (@_karanshyam)***, I am a Learner, Tech Enthusiast who loves to code in Python & JavaScript and currently providing services as a Freelancer !
+I am ***Karan Mittal (@KaranSMittal)***, I am a Learner, Tech Enthusiast who loves to code in Python & JavaScript and currently providing services as a Freelancer !
 
 I love learning, developing efficient systems, integrate various software together to develop intricate solutions, and just anything thats tech, I love it. 
 

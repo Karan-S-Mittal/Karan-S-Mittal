@@ -1,40 +1,75 @@
-### Hi there 👋 I'm excited to have you at my GitHub!
+# 👋 Hi, I'm Karan Mittal
 
-<img src="https://komarev.com/ghpvc/?username=Karan-S-Mittal" alt="profile counter badge" />
+I'm a **Data Scientist** and **Solutions Architect**.  
+I’ve worked on **100+ projects** with **20+ clients**.  
+I use **Python, JavaScript, Go**, and **Rust**.
 
-### Connect with me
-[![Linkedin Badge](https://img.shields.io/badge/-karansmittal-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karansmittal/)](https://www.linkedin.com/in/karansmittal/)
-[![Twitter Badge](https://img.shields.io/badge/-KaranSMittal-blue?logo=twitter&logoColor=white&link=https://twitter.com/KaranSMittal)](https://twitter.com/KaranSMittal)
-[![UpWork Badge](https://img.shields.io/badge/-KaranM-green?logo=upwork&logoColor=white&link=https://www.upwork.com/freelancers/~0170113a7c76ce4ff7)](https://www.upwork.com/freelancers/~0170113a7c76ce4ff7)
-[![Polywork Badge](https://img.shields.io/badge/-karansmittal-royalblue?logo=polywork&link=https://www.polywork.com/karansmittal)](https://www.polywork.com/karansmittal)
+---
 
-I am ***Karan Mittal (@KaranSMittal)***, I am a Learner, Tech Enthusiast who loves to code in Python & JavaScript and currently providing services as a Freelancer !
+## 🧠 What I Do
 
-I love learning, developing efficient systems, integrate various software together to develop intricate solutions, and just anything thats tech, I love it. 
+- Machine Learning & AI
+- Data Mining & Web Scraping
+- Full Stack Apps (APIs + Frontends)
+- Automation & System Design
+- Cloud + DevOps Deployments
 
-My Areas of Expertise include : 
-- Machine Learning and Deep Learning 
-- Full Stack Solutions 
-- API Integrations 
-- Data Mining
-- Web Scraping
-- And the skills are just expanding everyday...
+---
 
+## 🔗 Connect with Me
 
-***Want to hire me for your next project. Lets connect.***
-You can email me as well here ***karanshyammittal@gmail.com***.
+[![Linkedin](https://img.shields.io/badge/-karansmittal-blue?logo=linkedin)](https://www.linkedin.com/in/karansmittal/)  
+[![Twitter](https://img.shields.io/badge/-@KaranSMittal-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/KaranSMittal)  
+[![Upwork](https://img.shields.io/badge/-Freelance-green?logo=upwork)](https://www.upwork.com/freelancers/~0170113a7c76ce4ff7)  
+[![Polywork](https://img.shields.io/badge/-karansmittal-purple?logo=polywork)](https://www.polywork.com/karansmittal)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Karan-S-Mittal&?count_private=true&show_icons=true" alt="Karan Mittal" align="center" />
+📧 Email: **karanshyammittal@gmail.com**
 
-***Let me tell you somethings about myself.***
- - :computer: I am a ***Software Developer*** providing services as a ***Full Stack Engineer | Data Scientist***
- - :mortar_board: Will Gradulate in **2021** with a Bachelor's Degree in Technology in ***Computer Science***.
- - :zap: I am more of a ***self-learner*** who loves learning things from the internet, any reliable and quality source of information.
- - :v:  I am ***super positive*** and I always look forward to create and develop new solutions using cutting edge technologies.
- - :sunglasses: I am a self-trained ***Full Stack Engineer | Data Scientist*** and my journey began at 15!
- - :open_hands: I hate restricting myself to a single domain and ***I always try to extend my interest in multiple domains***.
- - :video_game: I love ***practicing yoga, meditation, watchning Anime, series, playing E-sports, Chess***
+---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan-S-Mittal&layout=compact" alt='Karan Mittal Top Languages' align="center" />
-  
-Feel free to look around my repos and check my recent work😉
+## 🔍 About Me
+
+- Started coding at **15**.
+- B.Tech in **Computer Science** (2021).
+- Love learning and building smart tools.
+- Big fan of **chess, yoga, anime**, and **esports**.
+
+---
+
+## 💼 Featured Projects
+
+| Project                                                                | Stack                 | Description                              |
+| ---------------------------------------------------------------------- | --------------------- | ---------------------------------------- |
+| [Knowledge Engine](https://github.com/Karan-S-Mittal/Knowledge-Engine) | FastAPI + RAG + Neo4j | Enterprise AI search with graphs         |
+| [PDF Translator](https://github.com/Karan-S-Mittal/pdf-translator)     | Python + Azure        | Translates uploaded files with context   |
+| [Realtime Scraper](https://github.com/Karan-S-Mittal/realtime-scraper) | Go + MongoDB          | Scrapes and streams data live            |
+| [SQL Agent](https://github.com/Karan-S-Mittal/sql-agent)               | Python + Ollama       | LLM-powered agent for querying databases |
+
+---
+
+## 🛠️ Tools & Tech
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+
+---
+
+## 📣 Let's Collaborate
+
+I'm always open to:
+
+- Freelance gigs
+- Open source projects
+- Speaking opportunities
+- Community events
+
+Drop me a message — let’s build something great.
+
+---
+
+_Thanks for stopping by! Check out my pinned repos to see what I’ve been building._

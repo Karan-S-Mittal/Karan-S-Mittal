@@ -1,0 +1,40 @@
+name: Profile README Dynamic Updates
+
+on:
+  schedule:
+    # Runs every day at 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    name: Update Profile README
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Update Recent GitHub Activity
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: 'docs: update recent activity'
+          MAX_LINES: 6
+
+      # ----------------------------------------------------------------------
+      # BLOG POST WORKFLOW
+      # This pulls from your Astro blog RSS feed on GitHub Pages.
+      # If you switch to a custom domain later, update the URL below.
+      # ----------------------------------------------------------------------
+      - name: Update Latest Blog Posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://karan-s-mittal.github.io/rss.xml"
+          max_post_count: 4
+          comment_tag_name: "BLOG-POST-LIST"
+          commit_message: "docs: update latest blog posts"
+          template: "$title - [$url]"

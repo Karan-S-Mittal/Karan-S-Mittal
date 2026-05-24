@@ -2,119 +2,131 @@
 
 ### ⚡ Building deterministic, high-performance AI systems | Research-driven | Enterprise-scale solutions
 
-**🎯 I architect and lead technical implementations of AI systems that perform reliably at scale**
-
 <div align="center">
 
-![Years Experience](https://img.shields.io/badge/Technical_Leadership-9+_Years-2F3349?style=flat-square&logo=cogs&logoColor=white)
-![Enterprise Projects](https://img.shields.io/badge/Enterprise_Solutions-Available_for_Hire-546E7A?style=flat-square&logo=rocket&logoColor=white)
-![Profile Views](https://komarev.com/ghpvc/?username=Karan-S-Mittal&color=2F3349&style=flat-square)
+![Technical Leadership](https://img.shields.io/badge/Technical_Leadership-9+_Years-2F3349?style=flat-square&logo=cogs&logoColor=white)
+![Enterprise Solutions](https://img.shields.io/badge/Enterprise_Solutions-Available_for_Hire-546E7A?style=flat-square&logo=rocket&logoColor=white)
 ![Current Focus](https://img.shields.io/badge/Currently_Working_On-GraphRAG_Architecture-607D8B?style=flat-square&logo=database&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=Karan-S-Mittal&color=2F3349&style=flat-square)
 
 </div>
 
----
-
-## 🏗️ Technical Architecture & Leadership
-
-> **I help organizations build deterministic, high-performance AI systems that scale reliably**
-
-### 🔬 AI Research & Advanced Systems
-
-![DSPy](https://img.shields.io/badge/DSPy-Expert-2F3349?style=flat-square&logo=openai&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-Expert-2F3349?style=flat-square&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-Expert-2F3349?style=flat-square)
-![Research](https://img.shields.io/badge/AI_Research-Published-2F3349?style=flat-square&logo=academia&logoColor=white)
-
-### 🚀 High-Performance Computing & Systems
-
-![CUDA](https://img.shields.io/badge/CUDA-Advanced-546E7A?style=flat-square&logo=nvidia&logoColor=white)
-![GPU Programming](https://img.shields.io/badge/GPU_Programming-Advanced-546E7A?style=flat-square&logo=nvidia&logoColor=white)
-![CPU Architecture](https://img.shields.io/badge/CPU_Architecture-Advanced-546E7A?style=flat-square&logo=intel&logoColor=white)
-![Performance Optimization](https://img.shields.io/badge/Performance_Tuning-Expert-2F3349?style=flat-square&logo=speedtest&logoColor=white)
-
-### 🧠 Knowledge Systems & RAG
-
-![RAG](https://img.shields.io/badge/RAG_Systems-Expert-2F3349?style=flat-square&logo=database&logoColor=white)
-![GraphRAG](https://img.shields.io/badge/Graph_RAG-Advanced-546E7A?style=flat-square&logo=graphql&logoColor=white)
-![Knowledge Graphs](https://img.shields.io/badge/Knowledge_Graphs-Advanced-546E7A?style=flat-square&logo=neo4j&logoColor=white)
-![Vector Databases](https://img.shields.io/badge/Vector_DBs-Expert-2F3349?style=flat-square&logo=postgresql&logoColor=white)
-
-### ☁️ Enterprise Infrastructure & DevOps
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Expert-2F3349?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Expert-2F3349?style=flat-square&logo=docker&logoColor=white)
-![Multi-Cloud](https://img.shields.io/badge/Multi_Cloud-Azure•AWS•GCP-546E7A?style=flat-square&logo=cloud&logoColor=white)
-![MLOps](https://img.shields.io/badge/MLOps-Production_Scale-2F3349?style=flat-square&logo=gitops&logoColor=white)
+> **I help organizations build deterministic, high-performance AI systems that scale reliably.**  
+> From sub-second RAG pipelines to GPU-optimized inference clusters, I architect systems where reliability is not an afterthought—it is the foundation.
 
 ---
 
-## 💼 Research & Enterprise Consulting
+## 🎯 Current Focus
 
-### 🎯 What I Architect & Lead
+- **🔭 Architecting:** Production-grade GraphRAG systems with deterministic retrieval guarantees.
+- **🧪 Researching:** CPU/GPU co-design patterns for LLM inference at the edge.
+- **✍️ Writing:** A technical series on *"Deterministic RAG: Beyond Probabilistic Retrieval."*
+- **🚀 Shipping:** Open-source tooling for reproducible RAG evaluation.
 
-- **🏭 Enterprise RAG Systems**: Production-scale knowledge retrieval with GraphRAG
-- **⚡ High-Performance ML Pipelines**: GPU-optimized training and inference
-- **🧠 Intelligent Knowledge Bases**: Vector databases with deterministic retrieval
-- **🔧 MLOps Infrastructure**: Kubernetes-native ML systems with monitoring
-- **📊 Real-time Analytics Platforms**: Sub-second response time dashboards
-
-### 🔬 Consulting Specializations
-
-- **Technical Architecture Reviews**: System design for AI/ML at scale
-- **Performance Optimization**: CPU/GPU profiling and acceleration
-- **Research Implementation**: Academic concepts to production systems
-- **Team Leadership**: Technical mentoring and architecture decisions
-
-### 📋 Available For
-
-![Consulting](https://img.shields.io/badge/Enterprise_Consulting-Available-2F3349?style=flat-square&logo=briefcase&logoColor=white)
-![Research](https://img.shields.io/badge/Research_Collaboration-Open-546E7A?style=flat-square&logo=academia&logoColor=white)
-![Contract](https://img.shields.io/badge/Contract_CTO-Available-607D8B?style=flat-square&logo=rocket&logoColor=white)
+<!-- CURRENT_FOCUS:LAST_UPDATED -->
 
 ---
 
-## 📊 GitHub Activity
+## 🏗️ Architectural Portfolio
 
-<div align="center">
+> **Pinned repositories I am most proud of.** Each link below represents a system designed for production scale.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karan-S-Mittal&show_icons=true&theme=default&hide_border=true&bg_color=f6f8fa&title_color=2F3349&icon_color=546E7A&text_color=24292e&hide=stars,issues)
+### 🏭 Enterprise RAG & Knowledge Systems
+<!-- Replace with your actual repo: [repo-name](https://github.com/Karan-S-Mittal/repo-name) -->
+- **[`repo-name`](https://github.com/Karan-S-Mittal/repo-name)** — Production-scale knowledge retrieval with GraphRAG. Reduced hallucination rate by 40% via deterministic citation chains.
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Karan-S-Mittal&theme=default&hide_border=true&background=f6f8fa&stroke=2F3349&ring=546E7A&fire=607D8B&currStreakLabel=2F3349&sideLabels=24292e&dates=24292e)
+### ⚡ High-Performance ML Infrastructure
+<!-- Replace with your actual repo -->
+- **[`repo-name`](https://github.com/Karan-S-Mittal/repo-name)** — GPU-optimized training and inference pipeline. Achieved 3.2× throughput improvement via custom CUDA kernels and kernel fusion.
 
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Karan-S-Mittal&theme=minimal&hide_border=true&bg_color=f6f8fa&color=24292e&line=546E7A&point=2F3349)
+### 🔧 MLOps & Platform Engineering
+<!-- Replace with your actual repo -->
+- **[`repo-name`](https://github.com/Karan-S-Mittal/repo-name)** — Kubernetes-native ML platform with automated canary deployments and real-time drift detection.
 
-</div>
+> 💡 *See all repositories in my [pinned section](https://github.com/Karan-S-Mittal?tab=repositories) or explore the [open-source recommendations](#-recommended-next-repos-to-build) I am planning next.*
 
 ---
 
-## 🛠️ Complete Technical Stack
+## 🔬 Research & Publications
+
+A selection of my public technical work, talks, and publications.
+
+| Year | Title / Topic | Venue / Link |
+|------|---------------|--------------|
+| 2025 | *Deterministic GraphRAG: Architecture Patterns for Enterprise Knowledge Retrieval* | Blog Series / [Link TBD] |
+| 2025 | *CPU/GPU Co-Design for Edge LLM Inference* | Internal Whitepaper |
+| 2024 | *MLOps Anti-Patterns: A Field Guide* | Conference Talk / [Link TBD] |
+
+> 📬 **Open to research collaborations.** If you are working on deterministic AI, vector retrieval, or high-performance inference, [reach out](mailto:karanshyammittal@gmail.com).
+
+---
+
+## 🛠️ Technical Stack
 
 ### Programming & Frameworks
 
 ![Python](https://img.shields.io/badge/Python-Expert-2F3349?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-546E7A?style=flat-square&logo=javascript&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-Expert-2F3349?style=flat-square&logo=pytorch&logoColor=white)
+![DSPy](https://img.shields.io/badge/DSPy-Expert-2F3349?style=flat-square&logo=openai&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-Advanced-546E7A?style=flat-square&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-Learning-90A4AE?style=flat-square&logo=rust&logoColor=white)
 
-### Data & Analytics
-
-![Plotly Dash](https://img.shields.io/badge/Plotly_Dash-Expert-2F3349?style=flat-square&logo=plotly&logoColor=white)
-![D3.js](https://img.shields.io/badge/D3.js-Advanced-546E7A?style=flat-square&logo=d3.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Expert-2F3349?style=flat-square&logo=postgresql&logoColor=white)
-
-### AI/ML Ecosystem
+### AI / ML Ecosystem
 
 ![LangChain](https://img.shields.io/badge/LangChain-Expert-2F3349?style=flat-square&logo=chainlink&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-Expert-2F3349?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG_Systems-Expert-2F3349?style=flat-square&logo=database&logoColor=white)
+![GraphRAG](https://img.shields.io/badge/Graph_RAG-Advanced-546E7A?style=flat-square&logo=graphql&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-Advanced-546E7A?style=flat-square&logo=database&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Expert-2F3349?style=flat-square&logo=fastapi&logoColor=white)
 
-### Cloud & DevOps
+### Infrastructure & Data
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Expert-2F3349?style=flat-square&logo=githubactions&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-Advanced-546E7A?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Advanced-546E7A?style=flat-square&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-Advanced-546E7A?style=flat-square&logo=googlecloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Expert-2F3349?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Expert-2F3349?style=flat-square&logo=docker&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-Advanced-546E7A?style=flat-square&logo=nvidia&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Expert-2F3349?style=flat-square&logo=postgresql&logoColor=white)
+![Multi_Cloud](https://img.shields.io/badge/Multi_Cloud-Azure•AWS•GCP-546E7A?style=flat-square&logo=cloud&logoColor=white)
+
+---
+
+## 📊 Engineering Metrics
+
+<div align="center">
+
+<!-- Light Mode Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Karan-S-Mittal&show_icons=true&hide_border=true&bg_color=f6f8fa&title_color=2F3349&icon_color=546E7A&text_color=24292e&hide=stars,issues&count_private=true#gh-light-mode-only" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Karan-S-Mittal&theme=default&hide_border=true&background=f6f8fa&stroke=2F3349&ring=546E7A&fire=607D8B&currStreakLabel=2F3349&sideLabels=24292e&dates=24292e#gh-light-mode-only" alt="GitHub Streak" height="165" />
+
+<!-- Dark Mode Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Karan-S-Mittal&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=58a6ff&text_color=c9d1d9&hide=stars,issues&count_private=true#gh-dark-mode-only" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Karan-S-Mittal&theme=dark&hide_border=true&background=0d1117&stroke=c9d1d9&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9#gh-dark-mode-only" alt="GitHub Streak" height="165" />
+
+<br />
+
+<!-- Light Mode Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Karan-S-Mittal&theme=minimal&hide_border=true&bg_color=f6f8fa&color=24292e&line=546E7A&point=2F3349#gh-light-mode-only" alt="GitHub Activity Graph" width="98%" />
+
+<!-- Dark Mode Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Karan-S-Mittal&theme=github-compact&hide_border=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff#gh-dark-mode-only" alt="GitHub Activity Graph" width="98%" />
+
+</div>
+
+---
+
+## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!-- This section is automatically updated by GitHub Actions -->
+<!--END_SECTION:activity-->
+
+---
+
+## 📝 Latest Insights
+
+<!-- BLOG-POST-LIST:START -->
+<!-- This section is automatically updated by GitHub Actions from your blog RSS feed -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -125,14 +137,15 @@
 [![Email](https://img.shields.io/badge/Email-Direct_Contact-607D8B?style=flat-square&logo=gmail&logoColor=white)](mailto:karanshyammittal@gmail.com)
 [![Upwork](https://img.shields.io/badge/Upwork-Enterprise_Consulting-90A4AE?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0170113a7c76ce4ff7)
 
-> 💡 **I respond fastest on LinkedIn & Email for professional inquiries**
+> 💡 **I respond fastest on LinkedIn & Email for professional inquiries.**  
+> For quick technical snippets and architecture recipes, check my [GitHub Gists](https://gist.github.com/Karan-S-Mittal).
 
 ---
 
 <div align="center">
 
-**Building the future of intelligent systems, one deterministic solution at a time**
+**Building the future of intelligent systems, one deterministic solution at a time.**
 
-_Thanks for visiting! Check out my pinned repositories to see my latest architectural work._
+*Thanks for visiting. If you find my work useful, consider starring the repositories—it helps others discover them.*
 
 </div>

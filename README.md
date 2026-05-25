@@ -124,9 +124,7 @@ A selection of my public technical work, talks, and publications.
 
 ## 📝 Latest Insights
 
-<!-- BLOG-POST-LIST:START -->
-<!-- This section is automatically updated by GitHub Actions from your blog RSS feed -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->Deterministic RAG: Beyond Probabilistic Retrieval - [https://karan-s-mittal.github.io/blog/deterministic-rag-intro/]<!-- BLOG-POST-LIST:END -->
 
 ---
 
